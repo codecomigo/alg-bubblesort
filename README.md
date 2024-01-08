@@ -33,7 +33,7 @@ Keep in mind that I am a learner. So, if you have some suggestions, just contact
 📧 code.andressa@gmail.com
 
 --------------------------------------------------------------------------------------------------------
-🇺🇸
+🇧🇷
 
 # Algoritmo de ordenação por bolha
 
